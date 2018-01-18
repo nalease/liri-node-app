@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "liri-node-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalease/liri-node-app.git"
+  },
+  "author": "Nalease",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalease/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/nalease/liri-node-app#readme"
+}

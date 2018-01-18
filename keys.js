@@ -1,4 +1,5 @@
-js
+var SPOTIFY_ID= "8e2b8d96efaf42a99c93772a5a9b798f"
+var SPOTIFY_SECRET= "adb4f208b82b4dca87aba94b30b21e58"
 console.log('this is loaded');
 
 exports.twitter = {
